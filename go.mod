@@ -5,7 +5,7 @@ go 1.27
 require (
 	github.com/pocketbase/dbx v1.12.0
 	github.com/pocketbase/ozzo-validation/v4 v4.3.0
-	github.com/pocketbase/pocketbase v0.40.0
+	github.com/pocketbase/pocketbase v0.40.1
 	github.com/spf13/cast v1.10.0
 	golang.org/x/sync v0.22.0
 )

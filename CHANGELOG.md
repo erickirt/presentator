@@ -1,3 +1,8 @@
+## v3.4.66
+
+- Updated to [PocketBase v0.40.1](https://github.com/pocketbase/pocketbase/releases/tag/v0.40.1) _(fixes for regresions related to the recent `encoding/json/v2` update)_.
+
+
 ## v3.4.65
 
 - Updated to [PocketBase v0.40.0](https://github.com/pocketbase/pocketbase/releases/tag/v0.40.0).
